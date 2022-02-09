@@ -5,7 +5,7 @@ import { Button } from '@material-ui/core';
 function App() {
   return (
     <div className="App">
-      <h2>hello</h2>
+      <h2>hell</h2>
       <Button variant="contained" color="primary">
       Hello World
     </Button>
